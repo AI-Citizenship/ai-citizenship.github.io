@@ -5,4 +5,4 @@ email: sgfin@uw.edu
 website: https://sgfin.github.io
 photo: sam.jpg
 --- 
-Pediatrics and Genetics Resident, University of Washington/Seattle Children's Hospital
+Resident, University of Washington/Seattle Children's Hospital
